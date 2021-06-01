@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  font-size: xx-large;
+}
+#heading {
+  color: blue;
+}
+.bacon {
+  background-color: red;
+}
+img:hover {
+  background-color: green;
+}
+.circular {
+  border-radius: 50%;
+}
