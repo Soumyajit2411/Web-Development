@@ -1,6 +1,4 @@
 //jshint esversion:6
-<<<<<<< HEAD
-=======
 const express = require("express");
 const ejs = require("ejs");
 require("dotenv").config();
@@ -76,4 +74,3 @@ app.post("/login", (req, res) => {
 app.listen(3000, function () {
   console.log("Server started on port 3000");
 });
->>>>>>> parent of 692a892 (yoo)
